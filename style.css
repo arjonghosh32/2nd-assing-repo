@@ -62,3 +62,24 @@ a, button {
              0 20px 20px rgba(0,0,0,.15); 
 }
 
+/* Header part styling */
+
+/* the nav part */
+
+.top_sec {
+  max-width: 1260px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+
+.top_left {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.top_left h2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
